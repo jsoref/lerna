@@ -1,0 +1,8 @@
+^\.github/actions/spelling/
+^\.github/workflows/
+^package-lock\.json$
+(?:^|/)__fixtures__/
+/__tests__/
+ignore$
+\.gitkeep$
+\.keep$
